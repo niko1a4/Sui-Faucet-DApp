@@ -1,0 +1,14 @@
+.connect-prompt {
+    text-align: center;
+    padding: 4rem 2rem;
+}
+
+.connect-prompt h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.connect-prompt p {
+    color: var(--text-muted);
+    font-size: 1.125rem;
+}
