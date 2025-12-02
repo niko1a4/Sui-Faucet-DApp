@@ -45,7 +45,7 @@ Click on Claim to claim your faucet tokens.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/niko1a4/Sui-Faucet-DApp
 cd faucet-frontend
 ```
 
